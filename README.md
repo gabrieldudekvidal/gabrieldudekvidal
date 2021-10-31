@@ -1,6 +1,6 @@
-### Hi, I'm Gabriel.
+## Hi, I'm Gabriel.
 
-## I'm a beginner developer
+### I'm a beginner developer
 - 🤖 I work as RPA Developer
 - 📚 Currently learning: VB.NET, HTML, CSS, JS
 - 🌎 Languages: Portuguese (native), English
