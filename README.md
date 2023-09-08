@@ -4,7 +4,7 @@ I'm a RPA and Web Developer
 
 - I'm currently working on my own company Bot Boo.
 - Learning React.
-- I'm looking to collaborate with cool companies.
+- I'm looking to collaborate with great companies.
 
 ## Languages
 <img align="left" width="28px" src="https://www.svgrepo.com/show/452091/python.svg"/>
