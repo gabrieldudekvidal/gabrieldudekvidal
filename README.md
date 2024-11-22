@@ -2,9 +2,8 @@
 
 I'm a RPA and Web Developer
 
-<img  width="10px" src="https://www.svgrepo.com/show/161055/black-rounded-square-shape.svg"/> I'm currently working on my own company Bot Boo. <br>
+<img  width="10px" src="https://www.svgrepo.com/show/161055/black-rounded-square-shape.svg"/> I'm currently working on my own company FlytWise. <br>
 <img  width="10px" src="https://www.svgrepo.com/show/161055/black-rounded-square-shape.svg"/> Learning React. <br>
-<img  width="10px" src="https://www.svgrepo.com/show/161055/black-rounded-square-shape.svg"/> I'm looking to collaborate with great companies. <br>
 
 ## Languages and tools
 <img align="left" width="23px" src="https://www.svgrepo.com/show/452091/python.svg"/>
