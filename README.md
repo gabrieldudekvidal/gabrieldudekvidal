@@ -1,6 +1,6 @@
-# Hi there!
+# Hi there! 👋
 
-I'm a Full Stack Web Developer
+I'm a Full Stack Web Developer.
 
 - I'm currently working on my own company FlytWise. <br>
 - Learning React. <br>
