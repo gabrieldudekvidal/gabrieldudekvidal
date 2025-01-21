@@ -1,8 +1,7 @@
-# Hi there! 👋
 
-I'm a Full Stack Web Developer.
+![Screenshot 2025-01-20 at 4 36 15 PM](https://github.com/user-attachments/assets/f9c87cce-0a57-49d2-a91e-a4a9587c6569)
 
-- I'm currently working on my own company FlytWise. <br>
+- Currently working on my own company FlytWise. <br>
 - Learning React. <br>
 
 ## Languages and tools
@@ -11,3 +10,5 @@ I'm a Full Stack Web Developer.
 - React.js
 - Postgre, MySQL
 - PyAutogui, Power Automate, UiPath
+
+## Social 
