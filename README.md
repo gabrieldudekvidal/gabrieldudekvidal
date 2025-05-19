@@ -10,5 +10,3 @@
 - React.js
 - Postgre, MySQL
 - PyAutogui, Power Automate, UiPath
-
-## Social 
