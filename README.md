@@ -1,8 +1,8 @@
 
-![Screenshot 2025-01-20 at 4 36 15 PM](https://github.com/user-attachments/assets/f9c87cce-0a57-49d2-a91e-a4a9587c6569)
+Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed.png" alt="Hand with Fingers Splayed" width="25" height="25" /> I'm Gabriel
 
-- Currently working on my own company FlytWise. <br>
-- Learning React. <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Currently working on my own company FlytWise. <br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Learning React. <br>
 
 ## Languages and tools
 - HTML, CSS, JS, BS5
