@@ -7,6 +7,6 @@ Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Flu
 ## Languages and tools
 - HTML, CSS, JS, BS5
 - Node.js, EJS, Express
-- React.js
+- Vue.js
 - Postgre, MySQL
 - PyAutogui, Power Automate, UiPath
