@@ -2,6 +2,7 @@
 Hey! I'm Gabriel
 
 ## Languages and tools
+- Swift
 - HTML, CSS, JS, BS5
 - Node.js, EJS, Express
 - Vue.js
