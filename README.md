@@ -19,8 +19,6 @@
 *   Designing smart workflows to optimize and automate repetitive tasks.
 *   Focused on clean code, distraction-free UI, and smooth performance.
 
----
-
 ## 😀 Connect with me
 *   [LinkedIn](https://www.linkedin.com/in/gabriel-dudek-vidal/)
 *   [gabdkvl.online](https://www.gabdkvl.online/)
